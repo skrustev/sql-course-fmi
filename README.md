@@ -1,2 +1,2 @@
 # sql-course-fmi
-Notes, example and exercises done during SQL cource.
+Notes, example and exercises done during SQL course.
